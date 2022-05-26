@@ -2,10 +2,13 @@
 안녕하십니까 김재현입니다.
 코딩테스트 과제입니다.
 
+
 # 셋팅법
 
+
+
 # 테스트
-  ## Table Create 쿼리문
+  #### Table Create 쿼리문
   use employees;
 
 create table `employees` . `ProductInfo`(
@@ -49,7 +52,8 @@ create table `employees`.`PurchaseInfo`(
 insert into purchaseinfo values("비비드 크림","홍길동","30000","2020-05-26","207");
 select * from purchaseinfo;
   
-  
+  ![tableERD](https://user-images.githubusercontent.com/106239390/170406922-5bc6e6dc-9a32-465f-b0cd-66228a73efa9.png)
+
 
 # 사용한 패키지
 Ubuntu, MYSQL
